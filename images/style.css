@@ -35,7 +35,7 @@ h1 {
     color: #165858;
     font-size: 25px;}
 .about-us {
-    padding: 45px 0px;
+    padding: 45px 0px;padding-left: 45px;
 }
 .about-us span {
         color: #3b751e;
