@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{width: 1200px;
+    margin: auto;}
+.header{overflow: hidden;
+    padding: 30px;background-color: #949474;}
+.logo{width: 20%;
+    float: left;}
+.logo img{
+
+}
+.banner img {
+    width: 100%;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.menu{float: left; width: 80%;}
+.menu ul{margin: 0;
+    padding: 0;}
+.menu ul li{list-style-type: none;
+    float: right;
+    margin-left: 55px;}
+.menu ul li a{text-transform: uppercase;
+    text-decoration: none;
+    color: #165858;
+    font-size: 25px;}
+.about-us {
+    padding: 45px 0px;
+}
+.about-us span {
+        color: #3b751e;
+    font-size: 25px;
+}
+.about-us h1 {
+    font-size: 29px;
+    color: #655a5a;}
+.about-us padding: ;{
+    color: darkgray;
+    font-size: 19px;}
+.blog1 {
+    width: 45%;
+    float: left;
+    height: 400px;}
+.blog1 img {
+    width: 100%;
+}
+.blog2 {
+    width: 44%;
+    float: right;
+    height: 400px;
+}
+.blog2 img {
+    width: 100%;
+}
