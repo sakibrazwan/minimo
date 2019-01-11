@@ -70,3 +70,9 @@ h1 {
 .footer {
     margin-top: 20%;
 }
+.Terms {
+    background: #2f2c2c1a;
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
