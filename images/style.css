@@ -4,8 +4,7 @@ body{
 }
 
 
-.container{width: 1200px;
-    margin: auto;}
+.container{margin: auto;}
 .header{overflow: hidden;
     padding: 30px;background-color: #949474;}
 .logo{width: 20%;
