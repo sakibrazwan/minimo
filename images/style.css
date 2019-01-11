@@ -45,6 +45,9 @@ h1 {
 }
 .about-us h1 {
     font-size: 29px;
+    .footer {
+    margin-top: 20%;
+}
     color: #655a5a;}
 .about-us padding: ;{
     color: darkgray;
